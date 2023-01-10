@@ -1,4 +1,4 @@
-
+console.log
 var yellowSwatch = document.getElementById("yellow");
 var blueSwatch = document.getElementById("blue");
 var redSwatch = document.getElementById("red");
